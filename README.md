@@ -15,4 +15,5 @@ Team members descriptions:
  Ruth - I enjoy Pythons clarity, but in Java it is harder to make mistakes (that's good). I'm still waiting for the cogwheels in my head to set right and the time I truly understand all the abstractions. Right now I understand, but cannot do it myself - hence time and practice is needed.
  I really enjoyed a talk with one senior developer (a friend) who explained programming related things to me by drawing them in the air and I saw the imaginary images - that gives me hope!
 
-
+Nelet - With no previous experience in programming I feel that this course is challenging, but I’m intrigued to learn and know more about this field.
+I’m a team player and have worked with many people during my career. Hoping to became a programmer, but need to learn and practice a lot more!
