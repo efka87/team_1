@@ -7,3 +7,7 @@ Team 1 repository
 
 Team members descriptions:
  KKatariin - I am more confident in Python than Java, because I have previously worked in Python. At the moment (6.07.2024) I have understood everything, but writing code myself is harder of course. I think I am managing quite well and thankfully am a quick learner.
+
+ Evln - I have been working in IT field for several years, have experience in working in teams but most of the time in Customer Success team. 
+ I have some experience in Python as I have learned it on my own. Java for me feels difficult. 
+ Other than that I have learned some basics in C# and SQL, that I use almost daily in may current job. 
