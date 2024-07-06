@@ -10,4 +10,4 @@ Team members descriptions:
 
  Evln - I have been working in IT field for several years, have experience in working in teams but most of the time in Customer Success team. 
  I have some experience in Python as I have learned it on my own. Java for me feels difficult. 
- Other than that I have learned some basics in C# and SQL, that I use almost daily in may current job. 
+ Other than that I have learned some basics in C#. And some more knowledge in SQL, as I use it almost daily in may current job. 
