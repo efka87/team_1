@@ -6,14 +6,14 @@
 
  Our team does not have any previous experience with Java, but a few of us have some experience in Python. 
  
- We all are the same goal and are willing to push each other to make it through the course. 
+ We all are after the same goal and are willing to push each other to make it through the course. 
 
 ---
 
-**Team members descriptions:**
+**Team members descriptions (6.07.2024):**
 
 
- KKatariin - I am more confident in Python than Java, because I have previously worked in Python. At the moment (6.07.2024) I have understood everything, but writing code myself is harder of course. I think I am managing quite well and thankfully am a quick learner.
+ KKatariin - I am more confident in Python than Java, because I have previously worked in Python. At the moment I have understood everything, but writing code myself is harder of course. I think I am managing quite well and thankfully am a quick learner. I also have experience in SQL.
 
  Evln - I have been working in IT field for several years, have experience in working in teams but most of the time in Customer Success team. 
  I have some experience in Python as I have learned it on my own. Java for me feels difficult. 
