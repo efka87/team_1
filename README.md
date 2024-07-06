@@ -17,7 +17,7 @@
 
  Evln - I have been working in IT field for several years, have experience in working in teams but most of the time in Customer Success team. 
  I have some experience in Python as I have learned it on my own. Java for me feels difficult. 
- Other than that I have learned some basics in C#. And some more knowledge in SQL, as I use it almost daily in my current job.
+ Other than that I have learned some basics in C#. And some more knowledge in SQL, as I use it almost daily at my current job.
 
  Ruth - I enjoy Pythons clarity, but in Java it is harder to make mistakes (that's good). I'm still waiting for the cogwheels in my head to set right and the time I truly understand all the abstractions. Right now I understand, but cannot do it myself - hence time and practice is needed.
  I really enjoyed a talk with one senior developer (a friend) who explained programming related things to me by drawing them in the air and I saw the imaginary images - that gives me hope!
