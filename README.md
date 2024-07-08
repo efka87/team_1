@@ -25,4 +25,6 @@
 Nelet - With no previous experience in programming I feel that this course is challenging, but I’m intrigued to learn and know more about this field.
 I’m a team player and have worked with many people during my career. Hoping to became a programmer, but need to learn and practice a lot more!
 
+Zane - I have some experience learning Python and Java, but I find Java difficult. Thanks to WoTech, it becomes a little clearer. At the moment I understand things, but it would be difficult to figure it out myself from scratch, so I am also learning to use artificial intelligence.I have also learned a bit of SQL, HTML and CSS.
+
 
