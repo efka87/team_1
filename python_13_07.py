@@ -14,7 +14,7 @@ plt.ylabel('Count')
 plt.show()
 
 
-#Create a horizontal bar chart that shows the top 5 most frequent names in the DataFrame, based on the 'name' column. 
+#Task 2: Create a horizontal bar chart that shows the top 5 most frequent names in the DataFrame, based on the 'name' column. 
 #First, create a grouped DataFrame (name_df), then filter it using iloc, and finally create the visualization.)
 
 name_df = dataset.groupby('Name').size().reset_index(name = 'count')
