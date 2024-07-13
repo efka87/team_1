@@ -22,7 +22,7 @@ name_df = name_df.sort_values(by ='count', ascending = False)
 name_df = name_df.iloc[:5]
 
 
-plt.barh(name_df['Name'], name_df['count'], color='skyblue')
+plt.barh(name_df['Name'], name_df['count'], color='skyblue', edgecolor='gray')
 plt.xlabel('Count')
 plt.ylabel('Name')
 plt.title('Top 5 Most Frequent Names')
