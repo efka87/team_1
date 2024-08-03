@@ -47,3 +47,8 @@ plt.xlabel('Category')
 plt.title('Number of fast pokemon (Speed >= 80)')
 plt.ylabel('Count')
 plt.show()
+
+# (DIFFICULT) Find Pokémon with the longest name (excluding spaces)? What is this pokemons name?
+longest_name_pokemon = pokemon_data.loc[pokemon_data['Name'].str.replace(' ', '').str.len().idxmax()]
+
+print(f"Pokemon with the longest name: {longest_name_pokemon['Name']}")
