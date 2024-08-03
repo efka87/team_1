@@ -40,12 +40,10 @@ fast_pokemon_count = len(fast_pokemons)
 print(f'Number of fast pokemons: {fast_pokemon_count}')
 
 # Create a bar plot
-plt.figure(figsize=(6, 4))
-plt.bar(['Fast Pokémons'], [fast_pokemon_count], color='green', edgecolor='black')
-plt.xticks(rotation=0)
-plt.xlabel('Category')
-plt.title('Number of fast pokemon (Speed >= 80)')
-plt.ylabel('Count')
+plt.hist(fast_pokemons["Speed"], edgecolor = "black") 
+plt.title("Pokemons with Speed >= 80")
+plt.xlabel("Speed")
+plt.ylabel("Frequency")
 plt.show()
 
 # (DIFFICULT) Find Pokémon with the longest name (excluding spaces)? What is this pokemons name?
